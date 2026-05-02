@@ -1,0 +1,78 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <title>Gomez Fierros Hardscaping</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="assets/css/main.css" />
+</head>
+<body>
+
+<!-- Header -->
+<header id="header">
+  <h1><a href="index.html">Gomez Fierros Hardscaping</a></h1>
+  <nav id="nav">
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="services.html">Services</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+</header>
+
+<!-- Banner -->
+<section id="banner">
+  <header>
+    <h2>Expert Hardscaping & Outdoor Design</h2>
+    <p>Patios, Driveways, Pavers & More</p>
+  </header>
+</section>
+
+<!-- Main -->
+<section class="wrapper style1">
+  <div class="container">
+    <header class="major">
+      <h2>Our Services</h2>
+      <p>Quality work you can trust</p>
+    </header>
+    <div class="row">
+      <section class="col-4 col-12-narrower">
+        <h3>Paver Installation</h3>
+        <p>Custom patios, walkways, and driveways built to last.</p>
+      </section>
+      <section class="col-4 col-12-narrower">
+        <h3>Concrete Work</h3>
+        <p>Durable and clean concrete finishes for any project.</p>
+      </section>
+      <section class="col-4 col-12-narrower">
+        <h3>Retaining Walls</h3>
+        <p>Strong and stylish solutions for landscaping support.</p>
+      </section>
+    </div>
+  </div>
+</section>
+
+<!-- CTA -->
+<section class="wrapper style2">
+  <div class="container">
+    <header class="major">
+      <h2>Get a Free Estimate</h2>
+      <p>Call us today or contact us online</p>
+    </header>
+  </div>
+</section>
+
+<!-- Footer -->
+<footer id="footer">
+  <div class="container">
+    <ul>
+      <li>Email: info@gomezfierros.com</li>
+      <li>Phone: (323) 555-1234</li>
+    </ul>
+    <p>&copy; Gomez Fierros Hardscaping. All rights reserved.</p>
+  </div>
+</footer>
+
+</body>
+</html>
